@@ -1,5 +1,5 @@
 # Dc-Dc-Converters
-A place to store all the dc-dc converter designs I make.
+A place to store all the dc-dc converter designs I make. (If I ever get around to putting them here I guess)
 
 
 # Buck Boost Converters
